@@ -21,6 +21,7 @@ public:
 	void cetak();
 };
 
+
 /*mahasiswa::mahasiswa() {
 	nim = 198;
 	nama = "";
