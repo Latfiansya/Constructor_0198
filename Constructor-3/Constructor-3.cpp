@@ -30,6 +30,7 @@ mahasiswa::mahasiswa(int iNim) {
 	nim = iNim;
 }*/
 
+
 mahasiswa::mahasiswa(string iNama) {
 	nim = 0;
 	nama = iNama;
